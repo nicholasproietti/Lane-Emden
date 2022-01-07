@@ -1,2 +1,2 @@
 # Lane-Emden
-Numerically solving the Lane-Emden equation for stellar structure
+Numerical solutions to the Lane-Emden equation for stellar structure.
